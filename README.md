@@ -9,4 +9,4 @@ v0.0.2 -
 sprites updated: player sprite, background. 
 objects added: soccerBall object to kick around(shares sprite with Player because it was recycled as an example). Just an interactable item example.
 scripts added: soccerBall script. Item class to inherit items from.
-other changes: n/a
+other changes: replaced zip file with updated version.
